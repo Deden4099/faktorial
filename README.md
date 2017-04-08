@@ -1,0 +1,2 @@
+# faktorial
+membuat diamond
