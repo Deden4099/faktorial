@@ -28,7 +28,7 @@ class fatorial {
       for (int j = 0; j < i; j++)
         System.out.print("*");
 
-      System.out.print("\n");
+      System.out.print("\n");//bisa
     }
   }
 }
